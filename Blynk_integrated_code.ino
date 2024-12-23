@@ -9,8 +9,8 @@
 
 BlynkTimer timer;
 char auth[] = BLYNK_AUTH_TOKEN; 
-char ssid[] = "Devansh";
-char pass[] = "fr0znouk0d"; 
+char ssid[] = "Network_name";
+char pass[] = "password"; 
 
 // Analog pin where the soil moisture sensor is connected
 const int soilMoisturePin = A0;
